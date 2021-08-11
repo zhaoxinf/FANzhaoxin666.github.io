@@ -34,7 +34,7 @@ I am a third-year PhD student at Renmin University, supervised by Prof. [Jun He]
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
 
-+ **SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
++ **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
 Arvix paper  
 
