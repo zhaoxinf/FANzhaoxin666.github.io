@@ -24,7 +24,7 @@ I am a third-year PhD student at Renmin University, supervised by Prof.  [Jun He
 ## Experience
 + 2021.6-now, working as a technical consultant in **Luokung tech**. Point cloud segmentation.
 + 2021.6-now, working as a technical consultant in **Shensi tech**. Human body reconstruction.
-+ 2020.10-2021.06, working as a research intern in **3D Vision&AR Group, Bytedanc Inc**.  6D object pose estimation.
++ 2020.10-2021.06, working as a research intern in **Bytedanc Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
 + 2019.9-now,PhD student at **Renmin Unvivesity of China**. Computer science.
 + 2015.7-2019.7, bachelor student at  **China University of Petroleum, Beijing**. Geophysics
