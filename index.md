@@ -6,24 +6,22 @@
     <td width="75%">
       <h1>Zhaoxin Fan </h1>
       <p><b>PhD student</b></p>
-      <p><b>School of Iformation, Renmin University of China</b></p>
+      <p><b>School of Information, Renmin University of China</b></p>
       <p><b>E-mail：fanzhaoxin@ruc.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/zhaoxinfan.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhaoxinfan.jpg" width="100%">     
     </td>
   </tr>
 </table>
-You can use the [editor on GitHub](https://github.com/FANzhaoxin666/fanzhaoxin666.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
+I am a third-year PhD student at Renmin University, supervised by Prof.  [Jun He](http://info.ruc.edu.cn/academic_professor.php?teacher_id=58) from RUC and [Hongyan Liu](http://www.sem.tsinghua.edu.cn/en/liuhy) from THU. When I study in RUC, I also had a great time researching computer vision at DeepGLInt and ByteDance. 
+My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
