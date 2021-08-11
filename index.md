@@ -6,8 +6,10 @@
     <td width="75%">
       <h1>Zhaoxin Fan </h1>
       <p><b>PhD student</b></p>
-      <p><b>School of Information, Renmin University of China</b></p>
+      <p><b>School of Information</b></p>
+      <p><b>Renmin University of China</b></p>
       <p><b>E-mail：fanzhaoxin@ruc.edu.cn</b></p>
+      <p><b>Adress：Haidian District,Beijing </b></p>
     </td>
     <td width="25%">
       <img src="/zhaoxinfan.jpg" width="100%">     
@@ -69,5 +71,5 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 [paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)
 
 
-#Professional Activities
-Reviewer of 
+## Professional Activities
+Reviewer of ICCV Workshop on 3D Object Detection from Images
