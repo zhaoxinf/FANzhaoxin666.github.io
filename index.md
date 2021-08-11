@@ -9,7 +9,7 @@
       <p><b>School of Information</b></p>
       <p><b>Renmin University of China</b></p>
       <p><b>E-mail：fanzhaoxin@ruc.edu.cn</b></p>
-      <p><b>Adress：Haidian District,Beijing </b></p>
+      <p><b>Address：Haidian District,Beijing </b></p>
     </td>
     <td width="25%">
       <img src="/zhaoxinfan2.jpg" width="100%">     
