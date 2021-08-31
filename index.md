@@ -33,7 +33,7 @@ I am a third-year PhD student at Renmin University of China, supervised by Prof.
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
 
-+ **Attentive Rotation Invariant Convolution for Point Cloud-based Large Scale Place Recognition** [[paper]](arxiv.org)    
++ **Attentive Rotation Invariant Convolution for Point Cloud-based Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Weping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
 Arvix paper  
 
