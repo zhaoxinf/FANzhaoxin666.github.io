@@ -29,7 +29,6 @@ I am a third-year PhD student at Renmin University of China, supervised by Prof.
 + 2015.7-2019.7, bachelor student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
-+ 2021.9.1, I  will go to the School of Computer Science at Carnegie Mellon University and act as a co-supervisor PhD student since 2022.
 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
