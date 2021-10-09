@@ -19,9 +19,9 @@
 
 
 ## About Me
-I am a third-year PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/academic_professor.php?teacher_id=58) from RUC and Prof. [Hongyan Liu](http://www.sem.tsinghua.edu.cn/en/liuhy) from THU. Before join RUC, I studied Geophysics at China University of Petroleum, Beijing for 4 years. When I study in RUC, I also have a great time researching computer vision at DeepGLInt and ByteDance.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
+I am a third-year PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/academic_professor.php?teacher_id=58) from RUC and Prof. [Hongyan Liu](http://www.sem.tsinghua.edu.cn/en/liuhy) from THU.  Before join RUC, I studied Geophysics at China University of Petroleum, Beijing for 4 years. When I study in RUC, I also have a great time researching computer vision at DeepGLInt and ByteDance.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
 
-## Experience
+## Background
 + 2021.6-now, working as a technical consultant in **Shensi tech**. Human body reconstruction.
 + 2020.10-2021.06, working as a research intern in **Bytedance Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
@@ -35,16 +35,16 @@ Details about my publications can be found in my [Google scholar](https://schola
 
 + **Attentive Rotation Invariant Convolution for Point Cloud-based Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Weping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
-Arvix paper  
+Arxiv paper  
 
 + **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
-Arvix paper  
+Arxiv paper  
 
 
 + **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
   **Zhaoxin Fan**, Yazhi Zhu, Yulin He , Qi Sun, Hongyan Liu, and Jun He  
-  Arvix paper  
+  Arxiv paper  
 
 
 + **SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146)    
