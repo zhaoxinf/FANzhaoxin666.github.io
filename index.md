@@ -79,4 +79,5 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 
 
 ## Professional Activities
++ Reviewer of CVPR2022 
 + Reviewer of ICCV2021 Workshop on 3D Object Detection from Images 
