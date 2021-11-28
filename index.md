@@ -22,6 +22,7 @@
 I am a third-year PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/academic_professor.php?teacher_id=58) from RUC and Prof. [Hongyan Liu](http://www.sem.tsinghua.edu.cn/en/liuhy) from THU.  Before join RUC, I studied Geophysics at China University of Petroleum, Beijing for 4 years. When I study in RUC, I also have a great time researching computer vision at DeepGLInt and ByteDance.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
 
 ## Background
++ 2021.6-now, working as a remote algorithm researcher in **Neral**. 6D object pose estimation.
 + 2021.6-now, working as a technical consultant in **Psyai**. Human body reconstruction.
 + 2020.10-2021.06, working as a research intern in **Bytedance Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
@@ -29,6 +30,7 @@ I am a third-year PhD student at Renmin University of China, supervised by Prof.
 + 2015.7-2019.7, bachelor student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
+I will go to CMU to continue my research afer December 2021, as a co-supervised PhD student.
 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
