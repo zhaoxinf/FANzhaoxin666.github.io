@@ -56,28 +56,28 @@ Arxiv paper
 
 + **SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146)    
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
-Computer Graphics Forum, 2020  
+Computer Graphics Forum, 2020  (CGF)
 
 
 
 + **A Graph‐based One‐Shot Learning Method for Point Cloud Recognition** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147)  
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
-Computer Graphics Forum, 2020  
+Computer Graphics Forum, 2020  (CGF)
 
 
 + **MPDNet: A 3D Missing Part Detection Network Based on Point Cloud Segmentation** [[paper]](https://ieeexplore.ieee.org/abstract/document/9414867/)  
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Min Zhang, and Xiaoyong Du  
-2021 IEEE International Conference on Acoustics, Speech and Signal Processing  
+2021 IEEE International Conference on Acoustics, Speech and Signal Processing  (ICASSP 2021)
 
 
 + **PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/9288277)  
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Siwei Jiang, and Xiaoyong Du  
-2020 International Conference on Tools with Artificial Intelligence  
+2020 International Conference on Tools with Artificial Intelligence   (ICTAI 2020)
 
 
 + **DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition** [[paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)  
 Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du  
-2020 ACM International Conference on Multimedia Retrieval  
+2020 ACM International Conference on Multimedia Retrieval  (ICMR 2020)
 
 
 
