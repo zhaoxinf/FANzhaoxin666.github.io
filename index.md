@@ -30,10 +30,15 @@ I am a third-year PhD student at Renmin University of China, supervised by Prof.
 + 2015.7-2019.7, bachelor student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
-I will go to CMU to continue my research afer December 2021, as a co-supervised PhD student.
++ A paper is accepted by AAAI2022. 
++ I will go to CMU to continue my research afer December 2021, as a co-supervised PhD student.
 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
+
++ **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
+36th AAAI Conference on Artificial Intelligence. (AAAI 2022)
 
 + **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
@@ -41,10 +46,6 @@ Arxiv paper
 
 + **Attentive Rotation Invariant Convolution for Point Cloud-based Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Weping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
-Arxiv paper  
-
-+ **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
 Arxiv paper  
 
 
