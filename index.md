@@ -50,7 +50,7 @@ Arxiv paper
 
 
 + **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
-  **Zhaoxin Fan**, Yazhi Zhu, Yulin He , Qi Sun, Hongyan Liu, and Jun He  
+  **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
   Arxiv paper  
 
 
