@@ -13,6 +13,7 @@
      <p><b> <img src="/zhaoxinfan2.jpg" width="100%"> <p><b>    
     </td>
   </tr>
+  </table>
 
 
 ## About Me
