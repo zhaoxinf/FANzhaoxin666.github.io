@@ -11,7 +11,7 @@
       <p><b>Address：Haidian District, Beijing </b></p>
     </td>
     <td width="25%">
-      <p><h2><img src="/zhaoxinfan2.jpg" width="100%"></b></h2>     
+      <p><h1><img src="/zhaoxinfan2.jpg" width="100%"></b></h1>     
     </td>
   </tr>
 </table>
