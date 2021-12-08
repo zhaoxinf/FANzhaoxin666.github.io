@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Zhaoxin Fan (范肇心)</h1>
+      <p><h1>Zhaoxin Fan (范肇心)</h1></p>
       <p><b>PhD student</b></p>
       <p><b>School of Information</b></p>
       <p><b>Renmin University of China</b></p>
@@ -16,13 +16,6 @@
   </tr>
 </table>
 
-|  <h1>Zhaoxin Fan (范肇心)</h1> | | 
-| :------| ------: |
-|<p><b>PhD student</b></p>
-      <p><b>School of Information</b></p>
-      <p><b>Renmin University of China</b></p>
-      <p><b>E-mail：fanzhaoxin@ruc.edu.cn</b></p>
-      <p><b>Address：Haidian District, Beijing </b></p> |    <img src="/zhaoxinfan2.jpg" width="100%"> | 
 
 
 
