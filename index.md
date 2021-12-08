@@ -30,7 +30,7 @@ I am a third-year PhD student at Renmin University of China, supervised by Prof.
 + 2015.7-2019.7, bachelor student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
-+ The first virtual actor An-Ruohan of Psyai  will perform her show on [bilibili] (https://live.bilibili.com/23834668) everyday! 
++ The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
 + A paper is accepted by AAAI2022. 
 + I will go to CMU to continue my research afer December 2021, as a co-supervised PhD student.
 
