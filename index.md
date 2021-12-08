@@ -1,23 +1,22 @@
 
 
+
 <table border="0">
   <tr>
     <td width="75%">
-      <p><h1>Zhaoxin Fan (范肇心)</h1></p>
+      <h1>Zhaoxin Fan (范肇心) </h1>
       <p><b>PhD student</b></p>
       <p><b>School of Information</b></p>
       <p><b>Renmin University of China</b></p>
       <p><b>E-mail：fanzhaoxin@ruc.edu.cn</b></p>
-      <p><b>Address：Haidian District, Beijing </b></p></tr>
-
+      <p><b>Address：Haidian District, Beijing </b></p>
+   <\tr>
+   <tr>
+    </td>
     <td width="25%">
-        <p><b><img src="/zhaoxinfan2.jpg" width="100%"></b></p>
- 
+      <img src="/zhaoxinfan2.jpg" width="100%">     
+    </td>
   </tr>
-</table>
-
-
-
 
 
 ## About Me
