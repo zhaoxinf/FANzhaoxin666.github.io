@@ -16,9 +16,13 @@
   </tr>
 </table>
 
-|  <h1>Zhaoxin Fan (范肇心)</h1> |  <img src="/zhaoxinfan2.jpg" width="100%">| 
+|  <h1>Zhaoxin Fan (范肇心)</h1> | | 
 | :------| ------: |
-| <p><b>PhD student</b></p> |    <img src="/zhaoxinfan2.jpg" width="100%"> | 
+|<p><b>PhD student</b></p>
+      <p><b>School of Information</b></p>
+      <p><b>Renmin University of China</b></p>
+      <p><b>E-mail：fanzhaoxin@ruc.edu.cn</b></p>
+      <p><b>Address：Haidian District, Beijing </b></p> |    <img src="/zhaoxinfan2.jpg" width="100%"> | 
 
 
 
