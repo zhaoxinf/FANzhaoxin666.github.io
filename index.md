@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Zhaoxin Fan (范肇心) </h1>
+      <p><b>Zhaoxin Fan (范肇心)</b></p>
       <p><b>PhD student</b></p>
       <p><b>School of Information</b></p>
       <p><b>Renmin University of China</b></p>
