@@ -29,7 +29,7 @@ I am a third-year PhD student at Renmin University of China, supervised by Prof.
 
 ## News
 + The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
-+ A paper is accepted by AAAI2022. 
++ A paper is accepted by AAAI 2022. 
 + I will go to CMU to continue my research afer December 2021, as a co-supervised PhD student.
 
 ## Publications
@@ -81,6 +81,6 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 
 
 ## Professional Activities
-+ Reviewer of CVPR2022 
-+ Reviewer of ICCV2021 Workshop on 3D Object Detection from Images 
-+ Reviewer of APBC2022
++ Reviewer of CVPR 2022 
++ Reviewer of ICCV 2021 Workshop on 3D Object Detection from Images 
++ Reviewer of APBC 2022
