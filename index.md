@@ -16,10 +16,10 @@
   </tr>
 </table>
 
-|  <h1>Zhaoxin Fan (范肇心)</h1> |  | 
+|  <h1>Zhaoxin Fan (范肇心)</h1> |  <img src="/zhaoxinfan2.jpg" width="100%">| 
 | :------| ------: |
-| 短文本 |    <img src="/zhaoxinfan2.jpg" width="100%"> | 
-| 稍微长一点的文本 ||
+| <p><b>PhD student</b></p> |    <img src="/zhaoxinfan2.jpg" width="100%"> | 
+
 
 
 
