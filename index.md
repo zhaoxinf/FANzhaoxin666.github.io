@@ -10,10 +10,15 @@
       <p><b>E-mail：fanzhaoxin@ruc.edu.cn</b></p>
       <p><b>Address：Haidian District, Beijing </b></p>
     </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
     <td width="25%">
       <img src="/zhaoxinfan2.jpg" width="50%">     
     </td>
-  </tr>
+   </tr>
 </table>
 
 
