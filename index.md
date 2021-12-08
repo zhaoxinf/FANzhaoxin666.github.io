@@ -1,4 +1,4 @@
- <img src="/zhaoxinfan2.jpg" width="100%"> 
+
 <table border="0">
   <tr>
     <td width="75%">
