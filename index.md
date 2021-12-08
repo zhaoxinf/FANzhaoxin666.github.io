@@ -1,9 +1,8 @@
-# Welcome to Zhaoxin Fan's homepage
 
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="80%">
       <h1>Zhaoxin Fan (范肇心) </h1>
       <p><b>PhD student</b></p>
       <p><b>School of Information</b></p>
@@ -11,7 +10,7 @@
       <p><b>E-mail：fanzhaoxin@ruc.edu.cn</b></p>
       <p><b>Address：Haidian District, Beijing </b></p>
     </td>
-    <td width="25%">
+    <td width="20%">
       <img src="/zhaoxinfan2.jpg" width="100%">     
     </td>
   </tr>
