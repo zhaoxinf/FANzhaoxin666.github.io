@@ -58,8 +58,7 @@ Arxiv paper
 Computer Graphics Forum, 2020  (CGF)
 
 
-
-+ **A Graph‐based One‐Shot Learning Method for Point Cloud Recognition** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147) 
++ **A Graph‐based One‐Shot Learning Method for Point Cloud Recognition** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147)    
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
 Computer Graphics Forum, 2020  (CGF)
 
