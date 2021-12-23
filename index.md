@@ -3,15 +3,10 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan (范肇心) </h1>
-      <p><b>PhD student</b></p>
-      <p><b>School of Information </b></p>
-      <p><b>Renmin University of China</b></p>
-      <p><b>School of Computer Science</b></p>
-      <p><b>Carnegie Mellon University</b></p>
+      <p><b>Renmin University of China (PhD student)</b></p>
+      <p><b>Carnegie Mellon University (co-supervision student)</b></p>
       <p><b>E-mail #1：fanzhaoxin@ruc.edu.cn</b></p>
       <p><b>E-mail #2：fanzhaoxinruc@gmail.com</b></p>
-      <p><b>Address #1：Haidian District, Beijing, China</b></p>
-      <p><b>Address #2：5000 Forbes Ave, Pittsburgh, USA </b></p>
     </td> 
     <td width="60%">
       <img src="/zhaoxinfan2.jpg" width="100%"> 
