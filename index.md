@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan (范肇心) </h1>
-      <p><b>PhD student of Renmin University of China)</b></p>
+      <p><b>PhD student of Renmin University of China</b></p>
       <p><b>Joint PhD student of Carnegie Mellon University </b></p>
       <p><b>E-mail #1：fanzhaoxin@ruc.edu.cn</b></p>
       <p><b>E-mail #2：fanzhaoxinruc@gmail.com</b></p>
