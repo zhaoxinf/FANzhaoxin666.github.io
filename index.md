@@ -13,7 +13,7 @@
       <p><b>Address #1：Haidian District, Beijing, China</b></p>
       <p><b>Address #2：5000 Forbes Ave, Pittsburgh, USA </b></p>
     </td> 
-    <td width="45%">
+    <td width="60%">
       <img src="/zhaoxinfan2.jpg" width="100%"> 
     </td>
   </tr>
