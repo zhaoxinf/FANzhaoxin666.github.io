@@ -3,8 +3,8 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan (范肇心) </h1>
-      <p><b>Renmin University of China (PhD student)</b></p>
-      <p><b>Carnegie Mellon University (co-supervision student)</b></p>
+      <p><b>PhD student of Renmin University of China)</b></p>
+      <p><b>Joint PhD student of Carnegie Mellon University </b></p>
       <p><b>E-mail #1：fanzhaoxin@ruc.edu.cn</b></p>
       <p><b>E-mail #2：fanzhaoxinruc@gmail.com</b></p>
     </td> 
@@ -16,7 +16,7 @@
 
 
 ## About Me
-I am a third-year PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/academic_professor.php?teacher_id=58) from RUC and Prof. [Hongyan Liu](http://www.sem.tsinghua.edu.cn/en/liuhy) from THU.  I am now also a co-supervision PhD student of Carnegie Mellon University, supervised by Prof [Min Xu](https://xulabs.github.io/min-xu/).  Before join RUC and CMU, I studied Geophysics at China University of Petroleum, Beijing for 4 years. When I study in RUC, I also have a great time researching computer vision at DeepGLInt and ByteDance.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
+I am a third-year PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/academic_professor.php?teacher_id=58) from RUC and Prof. [Hongyan Liu](http://www.sem.tsinghua.edu.cn/en/liuhy) from THU.  I am now also a Joint PhD student student of Carnegie Mellon University, supervised by Prof [Min Xu](https://xulabs.github.io/min-xu/).  Before join RUC and CMU, I studied Geophysics at China University of Petroleum, Beijing for 4 years. When I study in RUC, I also have a great time researching computer vision at DeepGLInt and ByteDance.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
 
 ## Background
 + 2021.6-now, working as a remote algorithm researcher in **Neral**. 6D object pose estimation.
@@ -29,7 +29,7 @@ I am a third-year PhD student at Renmin University of China, supervised by Prof.
 ## News
 + The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
 + A paper is accepted by AAAI 2022. 
-+ I will go to CMU to continue my research afer December 2021, as a co-supervised PhD student.
++ I will go to CMU to continue my research afer December 2021, as a Joint PhD student.
 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
