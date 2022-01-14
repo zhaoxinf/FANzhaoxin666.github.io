@@ -6,7 +6,8 @@
       <p><b>PhD student of Renmin University of China</b></p>
       <p><b>Joint PhD student of Carnegie Mellon University </b></p>
       <p><b>E-mail #1：fanzhaoxin@ruc.edu.cn</b></p>
-      <p><b>E-mail #2：fanzhaoxinruc@gmail.com</b></p>
+      <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
+      <p><b>E-mail #3：fanzhaoxinruc@gmail.com</b></p>
     </td> 
     <td width="60%">
       <img src="/zhaoxinfan2.jpg" width="100%"> 
