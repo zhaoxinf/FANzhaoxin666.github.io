@@ -30,8 +30,9 @@ I am a third-year PhD student at Renmin University of China, supervised by Prof.
 + 2015.7-2019.7, bachelor student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
++ A paper is accepted to ACM computing Surveys. The best ACM journal. IF:10.282
 + The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
-+ A paper is accepted by AAAI 2022. 
++ A paper is accepted to AAAI 2022. 
 + I will go to CMU to continue my research afer December 2021, as a Joint PhD student.
 
 ## Publications
@@ -41,17 +42,16 @@ Details about my publications can be found in my [Google scholar](https://schola
 **Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
 36th AAAI Conference on Artificial Intelligence. (AAAI 2022)
 
++ **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
+**Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
+ACM Computing Surveys,2022 (CSUR). 
+
 + **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 Arxiv paper  
 
 + **Attentive Rotation Invariant Convolution for Point Cloud-based Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Weping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
-Arxiv paper  
-
-
-+ **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
-**Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 Arxiv paper  
 
 
