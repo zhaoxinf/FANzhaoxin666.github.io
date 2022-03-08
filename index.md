@@ -44,7 +44,7 @@ Details about my publications can be found in my [Google scholar](https://schola
 
 + **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
-ACM Computing Surveys,2022 (CSUR). 
+ACM Computing Surveys, 2022 (CSUR). 
 
 + **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
