@@ -3,9 +3,7 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan (范肇心) </h1>
-      <p><b>PhD student of Renmin University of China</b></p>
-      <p><b>Joint PhD student of Carnegie Mellon University </b></p>
-      <p><b>E-mail #1：fanzhaoxin@ruc.edu.cn</b></p>
+      <p><b>Visiting student of Carnegie Mellon University </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
       <p><b>E-mail #3：fanzhaoxinruc@gmail.com</b></p>
     </td> 
@@ -17,7 +15,7 @@
 
 
 ## About Me
-I am a third-year PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/academic_professor.php?teacher_id=58) from RUC and Prof. [Hongyan Liu](http://www.sem.tsinghua.edu.cn/en/liuhy) from THU.  I am now also a Joint PhD student of Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).  Before join RUC and CMU, I studied Geophysics at China University of Petroleum, Beijing for 4 years. When I study in RUC, I also have a great time researching computer vision at DeepGLInt and ByteDance.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
+ I am now also a visting tudent at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, Psyai and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
 
 ## Background
 
@@ -26,8 +24,7 @@ I am a third-year PhD student at Renmin University of China, supervised by Prof.
 + 2020.10-2021.06, working as a research intern in **Bytedance Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
 + 2021.12-now,  Joint PhD student at **Carnegie Mellon University**. Computer Science.
-+ 2019.9-now,PhD student at **Renmin University of China**. Computer Science.
-+ 2015.7-2019.7, bachelor student at  **China University of Petroleum, Beijing**. Geophysics
++ 2015.7-2019.7, undergraduate student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
 + A paper is accepted to ACM computing Surveys. The best ACM journal. IF:10.282
