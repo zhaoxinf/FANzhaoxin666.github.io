@@ -15,7 +15,7 @@
 
 
 ## About Me
- I am now a visting student at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, Psyai and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
+ I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, Psyai and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
 
 ## Background
 
@@ -30,7 +30,7 @@
 + A paper is accepted to ACM computing Surveys. The best ACM journal. IF:10.282
 + The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
 + A paper is accepted to AAAI 2022. 
-+ I will go to CMU to continue my research afer December 2021, as a Joint PhD student.
++ I will go to CMU to continue my research afer December 2021.
 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
