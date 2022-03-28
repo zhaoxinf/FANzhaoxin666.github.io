@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan (范肇心) </h1>
-      <p><b>Visiting student of Carnegie Mellon University </b></p>
+      <p><b>Carnegie Mellon University </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
       <p><b>E-mail #2：fanzhaoxinruc@gmail.com</b></p>
     </td> 
