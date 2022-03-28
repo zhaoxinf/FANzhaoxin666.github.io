@@ -23,7 +23,7 @@
 + 2021.6-now, working as a technical consultant in **Psyai**. Human body reconstruction.
 + 2020.10-2021.06, working as a research intern in **Bytedance Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
-+ 2021.12-now,  Joint PhD student at **Carnegie Mellon University**. Computer Science.
++ 2021.12-now,  staff at **Carnegie Mellon University**. Computer Science.
 + 2015.7-2019.7, undergraduate student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
