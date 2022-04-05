@@ -53,7 +53,7 @@ Arxiv paper
 Arxiv paper 
 
 + **RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Weping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
+**Zhaoxin Fan**, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
 Arxiv paper  
 
 
