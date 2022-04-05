@@ -47,6 +47,11 @@ ACM Computing Surveys, 2022 (CSUR).
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 Arxiv paper  
 
+
++ **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+Arxiv paper 
+
 + **Attentive Rotation Invariant Convolution for Point Cloud-based Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Weping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
 Arxiv paper  
