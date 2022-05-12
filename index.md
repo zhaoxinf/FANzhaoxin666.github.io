@@ -5,7 +5,6 @@
       <h1>Zhaoxin Fan </h1>
       <p><b>Carnegie Mellon University </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
-      <p><b>E-mail #2：fanzhaoxinruc@gmail.com</b></p>
     </td> 
     <td width="60%">
       <img src="/zhaoxinfan2.jpg" width="100%"> 
@@ -15,7 +14,7 @@
 
 
 ## About Me
- I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, Psyai and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation and human body reconstruction. Feel free to send me an email if you are interested in my research.
+ I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, Psyai and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
 
 ## Background
 
@@ -43,9 +42,14 @@ Details about my publications can be found in my [Google scholar](https://schola
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 ACM Computing Surveys, 2022 (CSUR). 
 
++ **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]]
+https://arxiv.org/pdf/2204.09186.pdf
+**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+Arxiv paper 
+
 + **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-Arxiv paper  
+Arxiv paper 
 
 
 + **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)    
