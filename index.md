@@ -45,7 +45,7 @@ Details about my publications can be found in my [Google scholar](https://schola
 ACM Computing Surveys, 2022 (CSUR). 
 
 + **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]]
-(https://arxiv.org/pdf/2204.09186.pdf)
+(https://arxiv.org/pdf/2204.09186.pdf)  
 **Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 Arxiv paper 
 
@@ -57,6 +57,7 @@ Arxiv paper
 + **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 Arxiv paper 
+
 
 + **RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
