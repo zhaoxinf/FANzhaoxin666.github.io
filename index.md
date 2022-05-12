@@ -45,7 +45,7 @@ Details about my publications can be found in my [Google scholar](https://schola
 ACM Computing Surveys, 2022 (CSUR). 
 
 + **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]]
-https://arxiv.org/pdf/2204.09186.pdf
+(https://arxiv.org/pdf/2204.09186.pdf)
 **Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 Arxiv paper 
 
