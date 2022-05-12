@@ -28,7 +28,7 @@
 + 2015.7-2019.7, undergraduate student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
-+ A paper is accepted to ACM computing Surveys. The best ACM journal. IF:10.282
++ A paper is accepted to ACM computing Surveys. One of the best ACM journals. IF:10.282
 + The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
 + A paper is accepted to AAAI 2022. 
 + I will go to CMU to continue my research afer December 2021.
