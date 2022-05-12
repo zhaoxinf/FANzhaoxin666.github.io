@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Zhaoxin Fan </h1>
+      <h1>Jason Zhaoxin Fan </h1>
       <p><b>Carnegie Mellon University </b></p>
       <p><b>Technical consultant of PsyAI </b></p>
       <p><b>Leader of File Spring Community </b></p>
