@@ -4,6 +4,8 @@
     <td width="75%">
       <h1>Zhaoxin Fan </h1>
       <p><b>Carnegie Mellon University </b></p>
+      <p><b>Technical consultant of PsyAI </b></p>
+      <p><b>Leader of File Spring Community </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
     </td> 
     <td width="60%">
