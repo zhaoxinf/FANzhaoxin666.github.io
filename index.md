@@ -96,4 +96,4 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 + Reviewer of ICCV 2021 Workshop on 3D Object Detection from Images 
 + Reviewer of APBC 2022
 + Reviewer of 自动化学报
-+ Reviewer of IEEE Access
++ Reviewer of IEEE Access 
