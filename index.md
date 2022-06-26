@@ -4,6 +4,7 @@
     <td width="75%">
       <h1>Jason Zhaoxin Fan </h1>
       <p><b>Carnegie Mellon University </b></p>
+      <p><b>Renmin University of China </b></p>
       <p><b>Technical consultant of PsyAI </b></p>
       <p><b>Leader of File Spring Community </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
@@ -16,7 +17,7 @@
 
 
 ## About Me
- I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, Psyai and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
+I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I am also a PhD student at Renmin University of China. I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, Psyai and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
 
 ## Background
 
@@ -25,9 +26,11 @@
 + 2020.10-2021.06, working as a research intern in **Bytedance Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
 + 2021.12-now,  staff at **Carnegie Mellon University**. Computer Science.
++ 2019.9-now,  PhD student at **Renmin University of China**. Computer Science.
 + 2015.7-2019.7, undergraduate student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
++ A paper is accepted to ICIP.
 + A paper is accepted to ACM computing Surveys. One of the best ACM journals. IF:10.282
 + The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
 + A paper is accepted to AAAI 2022. 
