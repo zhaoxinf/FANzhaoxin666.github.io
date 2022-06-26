@@ -17,7 +17,7 @@
 
 
 ## About Me
-I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I am also a PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. Hongyan Liu (https://www.sem.tsinghua.edu.cn/info/1189/32080.htm). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, Psyai and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
+I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I am also a PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu] (https://www.sem.tsinghua.edu.cn/info/1189/32080.htm). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, Psyai and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
 
 ## Background
 
