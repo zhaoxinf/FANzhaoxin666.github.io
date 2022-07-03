@@ -42,7 +42,7 @@ Details about my publications can be found in my [Google scholar](https://schola
 
 + **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-ECCV 2022
+European Conference on Computer Vision. (ECCV 2022)
 
 + **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
