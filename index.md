@@ -56,20 +56,6 @@ IEEE ICIP 2022.
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 ACM Computing Surveys, 2022 (CSUR). 
 
-+ **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
-**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-Arxiv paper 
-
-+ **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-Arxiv paper 
-
-
-
-+ **RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
-Arxiv paper  
-
 
 + **SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146)    
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
@@ -94,6 +80,19 @@ Computer Graphics Forum, 2020  (CGF)
 + **DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition** [[paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)  
 Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du  
 2020 ACM International Conference on Multimedia Retrieval  (ICMR 2020)
+
++ **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
+**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+Arxiv paper 
+
++ **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+Arxiv paper 
+
+
++ **RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
+Arxiv paper  
 
 
 
