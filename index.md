@@ -30,7 +30,8 @@ I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](htt
 + 2015.7-2019.7, undergraduate student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
-+ A paper is accepted to ICIP.
++ A paper is accepted to ECCV 2022.
++ A paper is accepted to ICIP 2022.
 + A paper is accepted to ACM computing Surveys. One of the best ACM journals. IF:10.282
 + The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
 + A paper is accepted to AAAI 2022. 
@@ -38,6 +39,10 @@ I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](htt
 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
+
++ **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+ECCV 2022
 
 + **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
@@ -59,10 +64,6 @@ Arxiv paper
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 Arxiv paper 
 
-
-+ **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-Arxiv paper 
 
 
 + **RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
