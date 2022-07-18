@@ -47,7 +47,7 @@ European Conference on Computer Vision. (ECCV 2022)
 **Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
 36th AAAI Conference on Artificial Intelligence. (AAAI 2022)
 
-+ **Unsupervised Multi-task Learning for 3D Subtomogram Image Alignment, Clustering and Segmentation** 
++ **Unsupervised Multi-task Learning for 3D Subtomogram Image Alignment, Clustering and Segmentation** [[paper]](https://arxiv.org/pdf)      
 Haoyi Zhu, Chuting Wang, Yuanxin Wang, **Zhaoxin Fan**, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng and Min Xu  
 IEEE ICIP 2022. 
 
