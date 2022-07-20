@@ -29,6 +29,7 @@ I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](htt
 + 2015.7-2019.7, undergraduate student at  **China University of Petroleum, Beijing**. Geophysics
 
 ## News
++ A paper is accepted to PRCV 2022.
 + A paper is accepted to ECCV 2022.
 + A paper is accepted to ICIP 2022.
 + A paper is accepted to ACM computing Surveys. One of the best ACM journals. IF:10.282
