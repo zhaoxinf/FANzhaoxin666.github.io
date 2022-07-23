@@ -3,8 +3,8 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan</h1>
-      <p><b>Carnegie Mellon University </b></p>
-      <p><b>Renmin University of China </b></p>
+      <p><b>Incoming PhD of Carnegie Mellon University </b></p>
+      <p><b>PhD of Renmin University of China </b></p>
       <p><b>Technical advisor of PsyAI </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
     </td> 
