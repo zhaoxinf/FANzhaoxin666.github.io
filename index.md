@@ -40,6 +40,7 @@ I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](htt
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
 
+
 + **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 European Conference on Computer Vision. (ECCV 2022)
@@ -51,6 +52,10 @@ European Conference on Computer Vision. (ECCV 2022)
 + **Unsupervised Multi-task Learning for 3D Subtomogram Image Alignment, Clustering and Segmentation** [[paper]](https://arxiv.org/pdf)      
 Haoyi Zhu, Chuting Wang, Yuanxin Wang, **Zhaoxin Fan**, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng and Min Xu  
 IEEE ICIP 2022. 
+
++ **PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control** [[paper]](https://arxiv.org/pdf/)    
+Jincan Zhang, Zhenbo Song, Jianfeng Lu, Xingwei Qu, **Zhaoxin Fan** 
+PRCV 2022.
 
 + **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
