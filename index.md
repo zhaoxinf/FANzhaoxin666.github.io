@@ -97,6 +97,7 @@ Arxiv paper
 
 
 ## Professional Activities
++ Reviewer of IEEE Transactions on Industrial Informatics
 + Reviewer of 3DV 2022
 + Reviewer of ECCV 2022
 + Reviewer of CVPR 2022 
