@@ -48,7 +48,7 @@ European Conference on Computer Vision. (ECCV 2022)
 
 + **RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
-European Conference on Computer Vision-the 3rd Autonomous Vehicle Vision Workshop (ECCVW 2022)
+European Conference on Computer Vision-the 3rd Autonomous Vehicle Vision Workshop (ECCV Workshop 2022)
 
 
 + **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
