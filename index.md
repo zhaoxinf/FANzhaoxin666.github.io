@@ -45,9 +45,16 @@ Details about my publications can be found in my [Google scholar](https://schola
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 European Conference on Computer Vision. (ECCV 2022)
 
+
++ **RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
+European Conference on Computer Vision-the 3rd Autonomous Vehicle Vision Workshop (ECCVW 2022)
+
+
 + **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
 36th AAAI Conference on Artificial Intelligence. (AAAI 2022)
+
 
 + **Unsupervised Multi-task Learning for 3D Subtomogram Image Alignment, Clustering and Segmentation** [[paper]](https://arxiv.org/pdf)      
 Haoyi Zhu, Chuting Wang, Yuanxin Wang, **Zhaoxin Fan**, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng and Min Xu  
@@ -94,10 +101,6 @@ Arxiv paper
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 Arxiv paper 
 
-
-+ **RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
-Arxiv paper  
 
 
 
