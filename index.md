@@ -106,6 +106,7 @@ Arxiv paper
 
 
 ## Professional Activities
++ Reviewer of AAAI 2023
 + Reviewer of IEEE Transactions on Industrial Informatics
 + Reviewer of 3DV 2022
 + Reviewer of ECCV 2022
