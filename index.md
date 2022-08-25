@@ -42,6 +42,7 @@ I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](htt
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
 
 
+
 + **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 European Conference on Computer Vision. (ECCV 2022)
@@ -70,6 +71,20 @@ PRCV 2022.
 ACM Computing Surveys, 2022 (CSUR). 
 
 
++ **MonoPCNS: Monocular 3D Object Detection via Point Cloud Network Simulation** [[paper]](https://arxiv.org/pdf/2208.09446.pdf)    
+Han Sun, **Zhaoxin Fan**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu  
+Arxiv paper
+
+
++ **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
+**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+Arxiv paper 
+
++ **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+Arxiv paper 
+
+
 + **SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146)    
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
 Computer Graphics Forum, 2020  (CGF)
@@ -93,14 +108,6 @@ Computer Graphics Forum, 2020  (CGF)
 + **DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition** [[paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)  
 Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du  
 2020 ACM International Conference on Multimedia Retrieval  (ICMR 2020)
-
-+ **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
-**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-Arxiv paper 
-
-+ **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-Arxiv paper 
 
 
 
