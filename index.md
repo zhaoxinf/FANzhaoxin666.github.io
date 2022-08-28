@@ -5,7 +5,7 @@
       <h1>Zhaoxin Fan</h1>
       <p><b>Incoming PhD of Carnegie Mellon University </b></p>
       <p><b>PhD of Renmin University of China </b></p>
-      <p><b>Technical advisor of PsyAI </b></p>
+      <p><b>Technical advisor of PsyAI(深锶科技) </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
     </td> 
     <td width="60%">
@@ -21,7 +21,7 @@ I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](htt
 ## Background
 
 + 2021.6-now, working as a remote algorithm researcher in **Nreal**. 6D object pose estimation.
-+ 2021.6-now, working as a technical consultant in **PsyAI**. Human body reconstruction.
++ 2021.6-now, working as a technical consultant in **PsyAI（深锶科技）**. Human body reconstruction.
 + 2020.10-2021.06, working as a research intern in **Bytedance Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
 + 2021.12-now,  staff at **Carnegie Mellon University**. Computer Science.
