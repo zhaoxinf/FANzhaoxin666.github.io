@@ -113,6 +113,7 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 
 
 ## Professional Activities
++ Reviewer of IEEE Transactions on Multimedia
 + Reviewer of AAAI 2023
 + Reviewer of IEEE Transactions on Industrial Informatics
 + Reviewer of 3DV 2022
