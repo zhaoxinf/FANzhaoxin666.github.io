@@ -5,7 +5,7 @@
       <h1>Zhaoxin Fan</h1>
       <p><b>Incoming PhD of Carnegie Mellon University </b></p>
       <p><b>PhD of Renmin University of China </b></p>
-      <p><b>Technical advisor of PsyAI(深锶科技) </b></p>
+      <p><b>Technical advisor of [PsyAI(深锶科技)](psyai.com) </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
     </td> 
     <td width="60%">
