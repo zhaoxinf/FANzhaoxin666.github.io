@@ -70,6 +70,10 @@ PRCV 2022.
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 ACM Computing Surveys, 2022 (CSUR). 
 
++ **Human Pose Driven Object Effects Recommendation** [[paper]](https://arxiv.org/pdf/2209.08353.pdf)    
+**Zhaoxin Fan**, Fengxin Li, Hongyan Liu, Jun He, and Xiaoyong Du  
+Arxiv paper
+
 
 + **MonoPCNS: Monocular 3D Object Detection via Point Cloud Network Simulation** [[paper]](https://arxiv.org/pdf/2208.09446.pdf)    
 Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu  
