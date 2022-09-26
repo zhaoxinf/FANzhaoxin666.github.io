@@ -70,6 +70,10 @@ PRCV 2022.
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 ACM Computing Surveys, 2022 (CSUR). 
 
++ **GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition** [[paper]](https://arxiv.org/pdf/2209.11488.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Hongyan Liu, and Jun He  
+Arxiv paper
+
 + **Human Pose Driven Object Effects Recommendation** [[paper]](https://arxiv.org/pdf/2209.08353.pdf)    
 **Zhaoxin Fan**, Fengxin Li, Hongyan Liu, Jun He, and Xiaoyong Du  
 Arxiv paper
