@@ -34,7 +34,7 @@ I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](htt
 + A paper is accepted to PRCV 2022, one of the best CV conference in China.
 + A paper is accepted to ECCV 2022, one of the best CV conference in the world.
 + A paper is accepted to ICIP 2022, one of the top CV conference in the world.
-+ A paper is accepted to ACM computing Surveys. One of the best ACM journals. IF:10.282
++ A paper is accepted to ACM computing Surveys. One of the best ACM journals. IF:14.324
 + The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
 + A paper is accepted to AAAI 2022, one of the best AI conference in the world.
 + I will go to CMU to continue my research afer December 2021.
