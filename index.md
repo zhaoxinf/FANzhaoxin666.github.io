@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan</h1>
-      <p><b>Incoming PhD of Carnegie Mellon University </b></p>
+      <p><b>PhD of Carnegie Mellon University </b></p>
       <p><b>PhD of Renmin University of China </b></p>
       <p><b>Chief Young Scientist of PsyAI(深锶科技) </b></p>
       <p><b>Director PsyAI AVATAR Lab </b></p>
