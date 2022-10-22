@@ -6,7 +6,7 @@
       <p><b>PhD of Carnegie Mellon University </b></p>
       <p><b>PhD of Renmin University of China </b></p>
       <p><b>Chief Young Scientist of PsyAI(深锶科技) </b></p>
-      <p><b>Director PsyAI AVATAR Lab </b></p>
+      <p><b>Director of PsyAI AVATAR Lab </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
     </td> 
     <td width="60%">
