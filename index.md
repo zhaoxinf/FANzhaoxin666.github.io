@@ -70,6 +70,11 @@ PRCV 2022.
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 ACM Computing Surveys, 2022 (CSUR). 
 
+
++ **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]]([https://arxiv.org/pdf/2209.11488.pdf](https://arxiv.org/pdf/2212.00731.pdf))    
+**Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He  
+Arxiv paper
+
 + **GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition** [[paper]](https://arxiv.org/pdf/2209.11488.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Hongyan Liu, and Jun He  
 Arxiv paper
