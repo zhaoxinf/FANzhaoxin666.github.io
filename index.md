@@ -5,6 +5,7 @@
       <h1>Zhaoxin Fan</h1>
       <p><b>Scholar of Carnegie Mellon University</b></p>
       <p><b>PhD of Renmin University of China </b></p>
+      <p><b>associate president of IACS</b></p>
       <p><b>Chief Young Scientist of Psyche.AI(深锶科技) </b></p>
       <p><b>Director of  Psyche.AI AVATAR Lab </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
