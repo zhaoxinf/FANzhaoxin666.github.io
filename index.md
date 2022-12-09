@@ -127,6 +127,7 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 
 
 ## Professional Activities
++ Reviewer of RECOMB 2023
 + Reviewer of Journal of Intelligent Systems
 + Reviewer of IEEE Transactions on Multimedia
 + Reviewer of AAAI 2023
