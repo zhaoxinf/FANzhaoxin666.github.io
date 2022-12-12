@@ -3,8 +3,9 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan</h1>
-      <p><b>Incoming PhD of Carnegie Mellon University</b></p>
-      <p><b>PhD of Renmin University of China </b></p>
+      <p><b>Scholar of Carnegie Mellon University</b></p>
+      <p><b>PhD of HKUST</b></p>
+      <p><b>PhD of Renmin University of China</b></p>
       <p><b>Associate President of IACS</b></p>
       <p><b>CTO of CodeActive (中科阔维) </b></p>
       <p><b>Chief Young Scientist of Psyche.AI (深锶科技) </b></p>
@@ -19,7 +20,7 @@
 
 
 ## About Me
-I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). Before join CMU, I am a PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm) from THU. I am the CTO of CodeActive. I am also the director of [Psyche.AI AVATAR Lab](https://www.psyai.com/home). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
+I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).  Before join CMU, I am a PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm) from THU. I am the CTO of CodeActive. I am also the director of [Psyche.AI AVATAR Lab](https://www.psyai.com/home). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
 
 ## Background
 + 2021.6-now, working as Chief Young Scientist in **Psyche.AI**. Human body reconstruction.
