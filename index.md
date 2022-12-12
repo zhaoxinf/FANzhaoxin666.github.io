@@ -4,8 +4,7 @@
     <td width="75%">
       <h1>Zhaoxin Fan</h1>
       <p><b>Scholar of Carnegie Mellon University</b></p>
-      <p><b>PhD of HKUST</b></p>
-      <p><b>PhD of Renmin University of China</b></p>
+      <p><b>PhD of HKUST and RUC</b></p>
       <p><b>Associate President of IACS</b></p>
       <p><b>CTO of CodeActive (中科阔维) </b></p>
       <p><b>Chief Young Scientist of Psyche.AI (深锶科技) </b></p>
