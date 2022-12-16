@@ -18,16 +18,17 @@
 
 
 ## About Me
-I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).  Before join CMU, I am a PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm) from THU. I am also a PhD student of HKUST, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I also the director of [Psyche.AI AVATAR Lab](https://www.psyai.com/home). I received my bachelor's degree from China University of Petroleum.  I also have a great time researching computer vision at ByteDance, Neal, and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
+I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).  Before join CMU, I was a PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm) from THU. I am also a PhD student of HKUST, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I also the director of [Psyche.AI AVATAR Lab](https://www.psyai.com/home).  I also have a great time researching computer vision at ByteDance, Neal, and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
 
 ## Background
-+ 2021.6-now, working as Chief Young Scientist in **Psyche.AI**. Human body reconstruction.
-+ 2021.6-now, working as a remote algorithm researcher in **Nreal**. 6D object pose estimation.
++ 2021.06-now, working as Chief Young Scientist in **Psyche.AI**. Human body reconstruction.
++ 2021.06-now, working as a remote algorithm researcher in **Nreal**. 6D object pose estimation.
++ 2021.12-now, scholar at **Carnegie Mellon University**. Computer Science.
++ 2019.09-now,  PhD student at **Renmin University of China**. Computer Science.
++ 2023.02-now,  PhD student at **Hong Kong University of Science and Technology**. Computer Science.
 + 2020.10-2021.06, working as a research intern in **Bytedance Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
-+ 2021.12-now, scholar at **Carnegie Mellon University**. Computer Science.
-+ 2019.9-now,  PhD student at **Renmin University of China**. Computer Science.
-+ 2015.7-2019.7, undergraduate student at  **China University of Petroleum, Beijing**. Geophysics
+
 
 ## News
 + A paper is accepted to ECCV Workshop 2022.
