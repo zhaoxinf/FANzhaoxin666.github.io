@@ -11,7 +11,7 @@
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
     </td> 
     <td width="60%">
-      <img src="/zhaoxinfan2.jpg" width="100%"> 
+      <img src="/zhaoxin4.jpg" width="100%"> 
     </td>
   </tr>
 </table>
