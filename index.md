@@ -5,7 +5,6 @@
       <h1>Zhaoxin Fan</h1>
       <p><b>Scholar of Carnegie Mellon University</b></p>
       <p><b>PhD of HKUST and RUC</b></p>
-      <p><b>Associate President of IACS</b></p>
       <p><b>Chief Young Scientist of Psyche.AI (深锶科技) </b></p>
       <p><b>Director of  Psyche.AI AVATAR Lab </b></p>
       <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
@@ -128,6 +127,7 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 
 
 ## Professional Activities
++ Associate President of IACS
 + Reviewer of RECOMB 2023
 + Reviewer of Journal of Intelligent Systems
 + Reviewer of IEEE Transactions on Multimedia
@@ -137,6 +137,6 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 + Reviewer of ECCV 2022
 + Reviewer of CVPR 2022/2023 
 + Reviewer of ICCV 2021 Workshop on 3D Object Detection from Images 
-+ Reviewer of APBC 2022
++ Reviewer of APBC 2022/2023
 + Reviewer of 自动化学报
 + Reviewer of IEEE Access 
