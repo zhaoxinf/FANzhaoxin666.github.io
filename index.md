@@ -72,7 +72,7 @@ PRCV 2022.
 ACM Computing Surveys, 2022 (CSUR). 
 
 + **SHLE: Devices Tracking and Depth Filtering for Stereo-based Height Limit Estimation** [[paper]](https://arxiv.org/pdf/2212.11538.pdf)    
-**Zhaoxin Fan**, Kaixing Yang, Min Zhang, Zhenbo Song, Hongyan Liu, and Jun He
+**Zhaoxin Fan**, Kaixing Yang, Min Zhang, Zhenbo Song, Hongyan Liu, and Jun He  
 Arxiv paper
 
 
