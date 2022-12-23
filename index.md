@@ -71,9 +71,13 @@ PRCV 2022.
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 ACM Computing Surveys, 2022 (CSUR). 
 
++ **SHLE: Devices Tracking and Depth Filtering for Stereo-based Height Limit Estimation** [[paper]](https://arxiv.org/pdf/2212.11538.pdf)    
+**Zhaoxin Fan**, Kaixing Yang, Min Zhang, Zhenbo Song, Hongyan Liu, and Jun He
+Arxiv paper
+
 
 + **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)    
-**Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He  
+**Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He  
 Arxiv paper
 
 + **GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition** [[paper]](https://arxiv.org/pdf/2209.11488.pdf)    
