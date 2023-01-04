@@ -89,7 +89,7 @@ Arxiv paper
 Arxiv paper
 
 
-+ **MonoPCNS: Monocular 3D Object Detection via Point Cloud Network Simulation** [[paper]](https://arxiv.org/pdf/2208.09446.pdf)    
++ **MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection** [[paper]](https://arxiv.org/pdf/2208.09446.pdf)    
 Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu  
 Arxiv paper
 
