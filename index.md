@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan</h1>
-      <p><b>PhD Hong Kong University of Science and Technology</b></p>
+      <p><b>PhD of Hong Kong University of Science and Technology</b></p>
       <p><b>PhD of Renmin University of China</b></p>
       <p><b>Chief Young Scientist of Psyche.AI (深锶科技) </b></p>
       <p><b>Director of  Psyche.AI AVATAR Lab </b></p>
