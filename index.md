@@ -3,11 +3,11 @@
   <tr>
     <td width="75%">
       <h1>Zhaoxin Fan</h1>
-      <p><b>Scholar of Carnegie Mellon University</b></p>
-      <p><b>PhD of HKUST and RUC</b></p>
+      <p><b>PhD Hong Kong University of Science and Technology</b></p>
+      <p><b>PhD of Renmin University of China</b></p>
       <p><b>Chief Young Scientist of Psyche.AI (深锶科技) </b></p>
       <p><b>Director of  Psyche.AI AVATAR Lab </b></p>
-      <p><b>E-mail #1：zhaoxinf@andrew.cmu.edu</b></p>
+      <p><b>E-mail #1：fanzhaoxinruc@gmail.com</b></p>
     </td> 
     <td width="60%">
       <img src="/zhaoxin4.jpg" width="100%"> 
@@ -17,14 +17,14 @@
 
 
 ## About Me
-I am now working at Carnegie Mellon University, supervised by Prof. [Min Xu](https://xulabs.github.io/min-xu/). I am the leader of CMU [Zhaoxin Team](https://fanzhaoxin666.github.io/zhaoxin-team/).  Before join CMU, I was a PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm) from THU. I am also a PhD student of HKUST, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I also the director of [Psyche.AI AVATAR Lab](https://www.psyai.com/home).  I also have a great time researching computer vision at ByteDance, Neal, and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
+I am now a PhD stdudent of  HKUST, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). I am a PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm) from THU. I am also the director of [Psyche.AI AVATAR Lab](https://www.psyai.com/home).  I used to be a research scholar at CMU. I also have a great time researching computer vision at ByteDance, Neal, and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
 
 ## Background
 + 2021.06-now, working as Chief Young Scientist in **Psyche.AI**. Human body reconstruction.
 + 2021.06-now, working as a remote algorithm researcher in **Nreal**. 6D object pose estimation.
-+ 2021.12-now, scholar at **Carnegie Mellon University**. Computer Science.
-+ 2019.09-now,  PhD student at **Renmin University of China**. Computer Science.
 + 2023.02-now,  PhD student at **Hong Kong University of Science and Technology**. Computer Science.
++ 2019.09-now,  PhD student at **Renmin University of China**. Computer Science.
++ + 2021.12-2022.12, scholar at **Carnegie Mellon University**. Computer Science.
 + 2020.10-2021.06, working as a research intern in **Bytedance Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
 
