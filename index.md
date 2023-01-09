@@ -24,7 +24,7 @@ I am now a PhD stdudent of  HKUST, supervised by Prof. [Kai Chen](https://cse.hk
 + 2021.06-now, working as a remote algorithm researcher in **Nreal**. 6D object pose estimation.
 + 2023.02-now,  PhD student at **Hong Kong University of Science and Technology**. Computer Science.
 + 2019.09-now,  PhD student at **Renmin University of China**. Computer Science.
-+ + 2021.12-2022.12, scholar at **Carnegie Mellon University**. Computer Science.
++ 2021.12-2022.12, scholar at **Carnegie Mellon University**. Computer Science.
 + 2020.10-2021.06, working as a research intern in **Bytedance Inc**.  6D object pose estimation.
 + 2020.05-2020.06，working as a research intern in **DeepGLint**. Vision based diagnose.
 
