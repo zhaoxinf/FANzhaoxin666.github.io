@@ -7,7 +7,7 @@
       <p><b>PhD of Renmin University of China</b></p>
       <p><b>Chief Young Scientist of Psyche.AI (深锶科技) </b></p>
       <p><b>Director of  Psyche.AI AVATAR Lab </b></p>
-      <p><b>E-mail #1：fanzhaoxinruc@gmail.com</b></p>
+      <p><b>E-mail #1：zfanaq@connect.ust.hk</b></p>
     </td> 
     <td width="60%">
       <img src="/zhaoxin4.jpg" width="100%"> 
