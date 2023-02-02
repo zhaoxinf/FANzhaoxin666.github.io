@@ -31,6 +31,7 @@ I am now a joint PhD stdudent of HKUST and UMD, supervised by Prof. [Kai Chen](h
 
 
 ## News
++ A paper is accepted to ICRA 2023, one of the best robotics conference.
 + A paper is accepted to ECCV Workshop 2022.
 + A paper is accepted to PRCV 2022, one of the best CV conference in China.
 + A paper is accepted to ECCV 2022, one of the best CV conference in the world.
