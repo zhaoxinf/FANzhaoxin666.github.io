@@ -10,8 +10,6 @@
       <p><b>E-mail #1：zfanaq@connect.ust.hk</b></p>
       <p><b>E-mail #2：zfanaq@cs.ust.hk</b></p>
       
-      	
-Priority:  	
     </td> 
     <td width="60%">
       <img src="/zhaoxin4.jpg" width="100%"> 
