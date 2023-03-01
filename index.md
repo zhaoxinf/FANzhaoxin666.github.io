@@ -46,6 +46,12 @@ I am now a joint PhD stdudent of HKUST and UMD, supervised by Prof. [Kai Chen](h
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
 
+
++ **Robust Single Image Reflection Removal Against Adversarial Attacks** [[paper]](https://arxiv.org/pdf/)    
+Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, **Zhaoxin Fan**, Wenqi Ren, Jianfeng Lu
+CVPR 2023
+
+
 + **GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition** [[paper]](https://arxiv.org/pdf/2209.11488.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Hongyan Liu, and Jun He  
 ICRA 2023
