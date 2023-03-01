@@ -48,7 +48,7 @@ Details about my publications can be found in my [Google scholar](https://schola
 
 
 + **Robust Single Image Reflection Removal Against Adversarial Attacks** [[paper]](https://arxiv.org/pdf/)    
-Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, **Zhaoxin Fan**, Wenqi Ren, Jianfeng Lu
+Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, **Zhaoxin Fan**, Wenqi Ren, Jianfeng Lu   
 CVPR 2023
 
 
