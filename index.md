@@ -47,6 +47,10 @@ I am now a joint PhD stdudent of HKUST and UMD, supervised by Prof. [Kai Chen](h
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
 
++ **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]]([https://arxiv.org/pdf/](https://arxiv.org/pdf/2303.11089.pdf))    
+Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**
+arxiv
+
 
 + **Robust Single Image Reflection Removal Against Adversarial Attacks** [[paper]](https://arxiv.org/pdf/)    
 Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, **Zhaoxin Fan**, Wenqi Ren, Jianfeng Lu   
