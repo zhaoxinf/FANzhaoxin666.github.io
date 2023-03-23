@@ -39,17 +39,15 @@ My research interests lie in the areas of computer vision and machine learning, 
 
 
 ## News
-+ My pleasure to come back to CMU as a visiting scholar this time.
-+ A paper is accepted to CVPR 2023, one of the best CV conference in the world.
-+ A paper is accepted to ICRA 2023, one of the best robotics conference.
-+ A paper is accepted to ECCV Workshop 2022.
-+ A paper is accepted to PRCV 2022, one of the best CV conference in China.
-+ A paper is accepted to ECCV 2022, one of the best CV conference in the world.
-+ A paper is accepted to ICIP 2022, one of the top CV conference in the world.
-+ A paper is accepted to ACM computing Surveys. One of the best ACM journals. IF:14.324
-+ The first virtual actor An-Ruohan of Psyai  will perform her show at [bilibili](https://live.bilibili.com/23834668) everyday! 
-+ A paper is accepted to AAAI 2022, one of the best AI conference in the world.
-+ I will go to CMU to continue my research afer December 2021.
++ I am honored to have returned to Carnegie Mellon University as a visiting scholar.
++ One of my papers has been accepted for presentation at CVPR 2023, which is considered one of the most prestigious computer vision conferences in the world.
++ I am thrilled to have had one of my papers accepted for presentation at ICRA 2023, which is a leading robotics conference.
++ My research has been recognized at ECCV Workshop 2022, PRCV 2022, and ECCV 2022, all of which are highly-regarded international conferences in the field of computer vision.
++ I am proud to have had a paper accepted for publication in the ACM Computing Surveys journal, which is widely considered one of the best ACM journals with an impact factor of 14.324.
++ The virtual actor An-Ruohan of Psyai, which I helped to develop, performs her show daily on bilibili.
++ My research has also been recognized at ICIP 2022, which is a top-tier computer vision conference with a long-standing reputation for excellence.
++ I am excited to announce that one of my papers has been accepted for presentation at AAAI 2022, which is a leading artificial intelligence conference.
++ Starting from December 2021, I will continue my research at Carnegie Mellon University.
 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
