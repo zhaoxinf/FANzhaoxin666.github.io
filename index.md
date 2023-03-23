@@ -1,5 +1,21 @@
 
-<table> <tr> <td style="vertical-align: top; padding-right: 50px;"> <h1>Jason Zhaoxin Fan</h1> <p><b>PhD, Hong Kong University of Science and Technology</b></p> <p><b>PhD, University of Maryland, College Park</b></p> <p><b>Scholar, Carnegie Mellon University</b></p> <p><b>Chief Young Scientist, Psyche.AI (深锶科技)</b></p> <p><b>Director, Psyche.AI AVATAR Lab</b></p> <p><b>Email: zfanaq@connect.ust.hk</b></p> </td> <td> <img src="/zhaoxin4.jpg" width="100%"> </td> </tr> </table>
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 50px;">
+      <h1>Jason Zhaoxin Fan</h1>
+      <p><b>PhD, Hong Kong University of Science and Technology</b></p>
+      <p><b>PhD, University of Maryland, College Park</b></p>
+      <p><b>Scholar, Carnegie Mellon University</b></p>
+      <p><b>Chief Young Scientist, Psyche.AI (深锶科技)</b></p>
+      <p><b>Director, Psyche.AI AVATAR Lab</b></p>
+      <p><b>Email: zfanaq@connect.ust.hk</b></p>
+    </td> 
+    <td>
+      <img src="/zhaoxin4.jpg" width="300px"> 
+    </td>
+  </tr>
+</table>
+
 
 
 ## About Me
