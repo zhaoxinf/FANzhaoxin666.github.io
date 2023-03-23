@@ -19,7 +19,13 @@
 
 
 ## About Me
-I am now a joint PhD stdudent of HKUST and UMD, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) in HKUST and Prof. [Heng Huang](https://sites.pitt.edu/~heh45/) in UMD.  I am now also a scholar at CMU, supervised by Prof [Min Xu](https://xulabs.github.io/group/).  I am also the director of [Psyche.AI AVATAR Lab](https://www.psyai.com/home).Before join UMD and HKUST, I was a PhD student at Renmin University of China, supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm) from THU.  I also have a great time researching computer vision at ByteDance, Neal, and DeepGLInt.  My research interests lie in the area of computer vision and machine learning. I have been long working on place recognition, 6D pose estimation, human body reconstruction and medical image segmentation. Feel free to send me an email if you are interested in my research.
+I am a joint PhD student at the Hong Kong University of Science and Technology (HKUST) and the University of Maryland, College Park (UMD), co-supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST and Prof. [Heng Huang](https://sites.pitt.edu/~heh45/) at UMD. Additionally, I am a scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/). I also serve as the director of the  [Psyche.AI AVATAR Lab](https://www.psyai.com/home).
+
+My dream is to use technology to change the world. Specifically, I hope to build robots and digital humans that are indistinguishable from real humans, with the goal of achieving artificial general intelligence. Prior to joining UMD and HKUST, I was a PhD student at Renmin University of China, co-supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from Tsinghua University (THU). Additionally, I have worked as a researcher at ByteDance, Neal, and DeepGLInt, focusing on computer vision research.
+
+My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction, and medical image segmentation. Please feel free to contact me by email if you are interested in my research.
+
+
 
 ## Background
 + 2021.06-now, working as Chief Young Scientist in **Psyche.AI**. Human body reconstruction.
