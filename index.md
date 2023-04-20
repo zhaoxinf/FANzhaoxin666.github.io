@@ -56,6 +56,9 @@ Details about my publications can be found in my [Google scholar](https://schola
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 Arxiv
 
++ **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
+**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+IJCAI 2023
 
 + **Robust Single Image Reflection Removal Against Adversarial Attacks** [[paper]](https://arxiv.org/pdf/)    
 Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, **Zhaoxin Fan**, Wenqi Ren, Jianfeng Lu   
@@ -113,9 +116,6 @@ Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejia
 Arxiv paper
 
 
-+ **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
-**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-Arxiv paper 
 
 + **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
