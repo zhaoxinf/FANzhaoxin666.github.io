@@ -39,6 +39,7 @@ My research interests lie in the areas of computer vision and machine learning, 
 
 
 ## News
++ Excited to annouce that one of my papers has been accepted by IJCAI 2023.
 + I am honored to have returned to Carnegie Mellon University as a visiting scholar.
 + One of my papers has been accepted for presentation at CVPR 2023, which is considered one of the most prestigious computer vision conferences in the world.
 + I am thrilled to have had one of my papers accepted for presentation at ICRA 2023, which is a leading robotics conference.
