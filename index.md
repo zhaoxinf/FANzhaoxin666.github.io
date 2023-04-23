@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 50px;">
-      <h1>Jason Zhaoxin Fan</h1>
+      <h1>Jason Zhaoxin Fan</h1> 
       <p><b>PhD, Hong Kong University of Science and Technology</b></p>
       <p><b>PhD, University of Maryland, College Park</b></p>
       <p><b>Scholar, Carnegie Mellon University</b></p>
