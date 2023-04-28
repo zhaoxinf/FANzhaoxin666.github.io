@@ -9,6 +9,7 @@
       <p><b>Chief Young Scientist, Psyche.AI (深锶科技)</b></p>
       <p><b>Director, Psyche.AI AVATAR Lab</b></p>
       <p><b>Email: zfanaq@connect.ust.hk</b></p>
+      <p><b>Email: fanzhaxinruc@gmail.com</b></p>
     </td> 
     <td>
       <img src="/zhaoxin4.jpg" width="300px"> 
