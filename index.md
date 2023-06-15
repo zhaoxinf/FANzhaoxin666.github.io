@@ -59,7 +59,7 @@ Details about my publications can be found in my [Google scholar](https://schola
 Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu 
 Signal Processing
 
-+ **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]]([https://arxiv.org/pdf/](https://arxiv.org/pdf/2303.11089.pdf))    
++ **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)    
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 Arxiv
 
