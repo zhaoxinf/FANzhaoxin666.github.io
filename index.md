@@ -40,6 +40,7 @@ My research interests lie in the areas of computer vision and machine learning, 
 
 
 ## News
++ Excited to annouce that one of our  papers has been accepted by signal processin, IF=4.729
 + Excited to annouce that one of my papers has been accepted by IJCAI 2023.
 + I am honored to have returned to Carnegie Mellon University as a visiting scholar.
 + One of my papers has been accepted for presentation at CVPR 2023, which is considered one of the most prestigious computer vision conferences in the world.
@@ -53,6 +54,10 @@ My research interests lie in the areas of computer vision and machine learning, 
 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
+
++ **Deep Semantic-aware Remote Sensing Image Deblurring** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168423001822)    
+Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu 
+Signal Processing
 
 + **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]]([https://arxiv.org/pdf/](https://arxiv.org/pdf/2303.11089.pdf))    
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
@@ -153,6 +158,7 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 
 ## Professional Activities
 + President of IACS
++ Reviewer of ICCV 2023
 + Reviewer of RECOMB 2023
 + Reviewer of Journal of Intelligent Systems
 + Reviewer of IEEE Transactions on Multimedia
