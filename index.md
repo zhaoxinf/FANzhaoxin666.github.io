@@ -59,7 +59,7 @@ Details about my publications can be found in my [Google scholar](https://schola
 Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu 
 Signal Processing
 
-+ **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)    
++ **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 Arxiv
 
@@ -76,7 +76,7 @@ CVPR 2023
 **Zhaoxin Fan**, Zhenbo Song, Hongyan Liu, and Jun He  
 ICRA 2023
 
-+ **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)    
++ **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)[[code]](https://github.com/FANzhaoxin666/OLD_Net_release)       
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 European Conference on Computer Vision. (ECCV 2022)
 
@@ -86,7 +86,7 @@ European Conference on Computer Vision. (ECCV 2022)
 European Conference on Computer Vision-the 3rd Autonomous Vehicle Vision Workshop (ECCV Workshop 2022)
 
 
-+ **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)    
++ **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)[[code]](https://github.com/ZhenboSong/SVTNet)    
 **Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
 36th AAAI Conference on Artificial Intelligence. (AAAI 2022)
 
@@ -103,12 +103,12 @@ PRCV 2022.
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 ACM Computing Surveys, 2022 (CSUR). 
 
-+ **SHLE: Devices Tracking and Depth Filtering for Stereo-based Height Limit Estimation** [[paper]](https://arxiv.org/pdf/2212.11538.pdf)    
++ **SHLE: Devices Tracking and Depth Filtering for Stereo-based Height Limit Estimation** [[paper]](https://arxiv.org/pdf/2212.11538.pdf)[[code]](https://github.com/Yang-Kaixing/SHLE)    
 **Zhaoxin Fan**, Kaixing Yang, Min Zhang, Zhenbo Song, Hongyan Liu, and Jun He  
 Arxiv paper
 
 
-+ **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)    
++ **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)[[code]](https://github.com/indigo-99/FuRPE) 
 **Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He  
 Arxiv paper
 
