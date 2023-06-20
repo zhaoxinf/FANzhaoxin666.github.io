@@ -95,7 +95,7 @@ European Conference on Computer Vision-the 3rd Autonomous Vehicle Vision Worksho
 Haoyi Zhu, Chuting Wang, Yuanxin Wang, **Zhaoxin Fan**, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng and Min Xu  
 IEEE ICIP 2022. 
 
-+ **PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control** [[paper]](https://arxiv.org/pdf/)    
++ **PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14)    
 Jincan Zhang, Zhenbo Song, Jianfeng Lu, Xingwei Qu, **Zhaoxin Fan** 
 PRCV 2022.
 
@@ -107,9 +107,8 @@ ACM Computing Surveys, 2022 (CSUR).
 **Zhaoxin Fan**, Kaixing Yang, Min Zhang, Zhenbo Song, Hongyan Liu, and Jun He  
 Arxiv paper
 
-
-+ **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)[[code]](https://github.com/indigo-99/FuRPE) 
-**Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He 
++ **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)[[code]](https://github.com/indigo-99/FuRPE)    
+**Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He  
 Arxiv paper
 
 
