@@ -108,7 +108,7 @@ ACM Computing Surveys, 2022 (CSUR).
 Arxiv paper
 
 
-+ **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)[[code]](https://github.com/indigo-99/FuRPE) 
++ **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)[[code]](https://github.com/indigo-99/FuRPE)
 **Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He  
 Arxiv paper
 
