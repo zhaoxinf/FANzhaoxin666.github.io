@@ -55,6 +55,10 @@ My research interests lie in the areas of computer vision and machine learning, 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
 
++ **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)  
+Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
+Arxiv
+
 + **Deep Semantic-aware Remote Sensing Image Deblurring** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168423001822)    
 Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu 
 Signal Processing
