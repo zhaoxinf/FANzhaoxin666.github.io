@@ -4,7 +4,6 @@
     <td style="vertical-align: top; padding-right: 50px;">
       <h1>Jason Zhaoxin Fan</h1> 
       <p><b>PhD, Hong Kong University of Science and Technology</b></p>
-      <p><b>PhD, University of Maryland, College Park</b></p>
       <p><b>Scholar, Carnegie Mellon University</b></p>
       <p><b>Chief Young Scientist, Psyche.AI (深锶科技)</b></p>
       <p><b>Director, Psyche.AI AVATAR Lab</b></p>
@@ -20,9 +19,9 @@
 
 
 ## About Me
-I am a joint PhD student at the Hong Kong University of Science and Technology (HKUST) and the University of Maryland, College Park (UMD), co-supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST and Prof. [Heng Huang](https://sites.pitt.edu/~heh45/) at UMD. Additionally, I am a scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/). I also serve as the director of the  [Psyche.AI AVATAR Lab](https://www.psyai.com/home).
+I am a PhD student at the Hong Kong University of Science, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST. Additionally, I am a scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/). I also serve as the director of the  [Psyche.AI AVATAR Lab](https://www.psyai.com/home).
 
-My dream is to use technology to change the world. Specifically, I hope to build robots and digital humans that are indistinguishable from real humans, with the goal of achieving artificial general intelligence. Prior to joining UMD and HKUST, I was a PhD student at Renmin University of China, co-supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University (THU). Additionally, I have worked as a researcher at ByteDance, Neal, and DeepGLInt, focusing on computer vision research.
+My dream is to use technology to change the world. Specifically, I hope to build robots and digital humans that are indistinguishable from real humans, with the goal of achieving artificial general intelligence. Prior to joining HKUST, I was a PhD student at Renmin University of China, co-supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University (THU). Additionally, I have worked as a researcher at ByteDance, Neal, and DeepGLInt, focusing on computer vision research.
 
 My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction, and medical image segmentation. Please feel free to contact me by email if you are interested in my research.
 
@@ -31,7 +30,6 @@ My research interests lie in the areas of computer vision and machine learning, 
 ## Background
 + 2021.06-now, working as Chief Young Scientist in **Psyche.AI**. Human body reconstruction.
 + 2021.06-now, working as a remote algorithm researcher in **Nreal**. 6D object pose estimation.
-+ 2023.01-now,  PhD student at **University of Maryland, College Park**. Computer Science.
 + 2023.01-now,  PhD student at **Hong Kong University of Science and Technology**. Computer Science.
 + 2021.12-now,  scholar at **Carnegie Mellon University**. Computer Science.
 + 2019.09-2023.1,  PhD student at **Renmin University of China**. Computer Science.
@@ -40,7 +38,8 @@ My research interests lie in the areas of computer vision and machine learning, 
 
 
 ## News
-+ Excited to annouce that one of our  papers has been accepted by signal processin, IF=4.729
++ Two papers D-IF and Emo-Talk are accepted by ICCV 2023, one of the best conference in computer vision.
++ Excited to annouce that one of our  papers has been accepted by signal processing, IF=4.729
 + Excited to annouce that one of my papers has been accepted by IJCAI 2023.
 + I am honored to have returned to Carnegie Mellon University as a visiting scholar.
 + One of my papers has been accepted for presentation at CVPR 2023, which is considered one of the most prestigious computer vision conferences in the world.
@@ -55,6 +54,14 @@ My research interests lie in the areas of computer vision and machine learning, 
 ## Publications
 Details about my publications can be found in my [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=JHvyYDQAAAAJ)
 
++ **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
+Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
+ICCV 2023
+
++ **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
+Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, Zhaoxin Fan, **Zhaoxin Fan(corresponding author)**.  
+ICCV 2023
+
 + **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)  
 Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 Arxiv
@@ -63,9 +70,6 @@ Arxiv
 Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu 
 Signal Processing
 
-+ **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
-Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
-Arxiv
 
 + **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
 **Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
@@ -165,7 +169,7 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 + Reviewer of RECOMB 2023
 + Reviewer of Journal of Intelligent Systems
 + Reviewer of IEEE Transactions on Multimedia
-+ Reviewer of AAAI 2023
++ Reviewer of AAAI 2023/2024
 + Reviewer of IEEE Transactions on Industrial Informatics
 + Reviewer of 3DV 2022
 + Reviewer of ECCV 2022
