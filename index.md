@@ -62,6 +62,10 @@ ICCV 2023
 Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
 ICCV 2023
 
++ **DenseMP: Unsupervised Dense Pre-training for Few-shot Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2307.09604.pdf)  
+**Jason Zhaoxin Fan**, Puquan Pan2, Zeren Zhang, Ce Chen2, Tianyang Wang, Siyang Zheng, Min Xu1.  
+Arxiv
+
 + **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)  
 Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 Arxiv
