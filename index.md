@@ -5,7 +5,7 @@
       <h1>Jason Zhaoxin Fan</h1> 
       <p><b>PhD, Hong Kong University of Science and Technology</b></p>
       <p><b>Scholar, Carnegie Mellon University</b></p>
-      <p><b>Chief Young Scientist, Psyche.AI (深锶科技)</b></p>
+      <p><b>Chief Young Scientist, Psyche AI Inc</b></p>
       <p><b>Director, Psyche.AI AVATAR Lab</b></p>
       <p><b>Email: zfanaq@connect.ust.hk</b></p>
       <p><b>Email: fanzhaxinruc@gmail.com</b></p>
